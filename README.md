@@ -2,7 +2,8 @@
 
 If you like my work, 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png "Buy Me A Coffee")](https://www.buymeacoffee.com/0xdir "Buy Me A Coffee")
+<a href="https://www.buymeacoffee.com/0xdir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!--
 **0xdir/0xdir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
