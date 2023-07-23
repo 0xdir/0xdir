@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-If you like my work, 
+If you like my content, please consider [buying me a coffee](https://www.buymeacoffee.com/0xdir). Thank you for your support!
 
-<a href="https://www.buymeacoffee.com/0xdir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 <!--
 **0xdir/0xdir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
