@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-If you like my content, please consider [buying me a coffee](https://www.buymeacoffee.com/0xdir). Thank you for your support!
-
+If you like my content, please consider [buying me a coffee](https://bmc.link/0xdir). Thank you for your support!
 
 
 <!--
